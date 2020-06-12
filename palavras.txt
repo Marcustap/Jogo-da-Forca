@@ -1,0 +1,11 @@
+bola
+casa
+massa
+teclado
+mesa
+agente
+jogo
+quadro
+lapis
+pincel
+caneta
